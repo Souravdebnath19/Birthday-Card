@@ -342,6 +342,7 @@ nav h3 {
     font-size: 3vw;
     position: relative;
     z-index: 9;
+    padding-left: 450px;
 }
 
 .elem .overlay {
